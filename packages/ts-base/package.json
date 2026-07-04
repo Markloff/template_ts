@@ -83,6 +83,7 @@
 		"tsc-alias": "^1.8.10",
 		"vite": "^6.1.1",
 		"vitest": "^3.0.6",
+		"@types/node": "^24",
 		"@biomejs/biome": "^1.9.4"
 	}
 }
